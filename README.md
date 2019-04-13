@@ -50,6 +50,7 @@ Summary of online learning materials
 * https://github.com/riusksk/secbook
 * https://github.com/bayandin/awesome-awesomeness
 * [常用服务器、数据库、中间件安全配置基线](https://github.com/re4lity/Benchmarks)
+* [https://github.com/NB-STAR/Security-Operation](https://github.com/NB-STAR/Security-Operation)
 * https://github.com/EbookFoundation/free-programming-books
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * https://github.com/yosriady/api-development-tools
@@ -99,6 +100,10 @@ Summary of online learning materials
 * [The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.](https://github.com/RhinoSecurityLabs/pacu)
 * https://github.com/Ridter/Intranet_Penetration_Tips
 
+## Mobile Application Security
+
+* https://gbhackers.com/mobile-application-penetration-testing/
+
 ## Malware
 
 * [Bypass EDR’s memory protection, introduction to hooking](https://movaxbx.ru/2019/02/19/bypass-edrs-memory-protection-introduction-to-hooking/)
@@ -115,6 +120,7 @@ Summary of online learning materials
 * [ 二进制分析研究会议 BAR 2019 资源发布]( https://ruoyuwang.me/bar2019/)
 * [GLOBAL ATM MALWARE WALL](http://atm.cybercrime-tracker.net/index.php)
 * [Feed RSS with the latest samples:](http://atm.cybercrime-tracker.net/wget.php)
+* https://maskop9.tech/index.php/2019/01/30/analysis-of-netwiredrc-trojan/
 
 ## Fuzzing
 
@@ -142,7 +148,7 @@ Summary of online learning materials
 ## Deep Net
 
 * [All You Need to Know About Deep Learning - A kick-starter](https://github.com/machinelearningmindset/deep-learning-ocean)
-* [OnionScan is a free and open source tool for investigating the Dark Web.]https://github.com/s-rah/onionscan
+* [OnionScan is a free and open source tool for investigating the Dark Web.](https://github.com/s-rah/onionscan)
 
 ## Operating System
 
